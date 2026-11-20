@@ -44,8 +44,8 @@ Sau khi đã hoàn thành các bước Thu thập yêu cầu (CS1), Phân tích 
 
 ### 1.1. Link GitHub Repository (Chế độ Public)
 - **Đường dẫn GitHub Repo chính thức của nhóm:**  
-  [https://github.com/SmartBikeRental2026/SmartBike-Rental-DaNang-App](https://github.com/SmartBikeRental2026/SmartBike-Rental-DaNang-App)  
-  *(Chế độ: Public – Mọi giảng viên và sinh viên đều có thể clone và kiểm thử).*
+  [https://github.com/Anhdadenn/WebCS434G.git](https://github.com/Anhdadenn/WebCS434G.git)  
+  *(Chế độ: Public – Mọi giảng viên và sinh viên đều có thể truy cập, clone và kiểm thử).*
 
 ### 1.2. Cấu trúc thư mục dự án (Project Structure)
 Dự án được phân chia theo mô hình Clean Architecture đa tầng, loại bỏ hoàn toàn việc gộp chung một file duy nhất:

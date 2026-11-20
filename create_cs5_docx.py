@@ -130,7 +130,7 @@ def create_document():
     h1_1.add_run("1.1. Link GitHub Repository (Chế độ Public)")
     p = doc.add_paragraph()
     p.add_run("• Đường dẫn kho mã nguồn Git/GitHub của nhóm:\n")
-    r_gh = p.add_run("https://github.com/SmartBikeRental2026/SmartBike-Rental-DaNang-App")
+    r_gh = p.add_run("https://github.com/Anhdadenn/WebCS434G.git")
     r_gh.bold = True
     r_gh.underline = True
     r_gh.font.color.rgb = RGBColor(37, 99, 235)
