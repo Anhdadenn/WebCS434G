@@ -1,0 +1,14 @@
+{
+  "name": "smartbike-backend",
+  "version": "1.0.0",
+  "description": "Backend RESTful API for SmartBike Rental Da Nang (Case Study 5)",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "init-db": "node ../database/init_db.js"
+  },
+  "keywords": ["smartbike", "rental", "vietqr", "ekyc", "rest-api"],
+  "author": "Nhom 1 - CS434",
+  "license": "ISC"
+}
